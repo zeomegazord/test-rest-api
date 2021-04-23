@@ -2,17 +2,17 @@
   "side-menu": [
     {
       "name": "test1",
-      "display_name": "Disp test 1",
+      "display_name": "Пункт 1",
       "link": "test1"
     },
     {
       "name": "test2",
-      "display_name": "Disp test 2",
+      "display_name": "Пункт 2",
       "link": "test2"
     },
     {
       "name": "test3",
-      "display_name": "Disp test 3",
+      "display_name": "Пункт 3",
       "link": "test3"
     }
   ]
