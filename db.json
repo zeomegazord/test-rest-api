@@ -1,15 +1,18 @@
 {
-  "posts": [
+  "side-munu": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "test1",
+      "display_name": "Disp test 1",
+      "link": "test1"
     },
     {
-      "id": 2,
-      "title": "world"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "name": "test2",
+      "display_name": "Disp test 2",
+      "link": "test2"
+    },
+    {
+      "name": "test3",
+      "display_name": "Disp test 3",
+      "link": "test3"
+    },
 }
